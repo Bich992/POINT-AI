@@ -1,0 +1,12 @@
+pyside6>=6.6
+pyqtgraph>=0.13.3
+PyOpenGL>=3.1.7
+open3d>=0.18
+numpy>=1.26
+laspy>=2.5
+lazrs>=0.6
+pye57>=0.4
+zarr<3
+numcodecs>=0.12
+pyinstaller>=6.3
+requests>=2.31
